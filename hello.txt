@@ -1,12 +1,12 @@
 public class hello{
 안녕하세요
-<<<<<<< HEAD
-=======
 Hello World
 print
 java
->>>>>>> hotfix
 python
 jquery
 css
+oracle
+spring
+javacript
 }
